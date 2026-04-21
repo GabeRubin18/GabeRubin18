@@ -1,7 +1,5 @@
 # About Me
 
-**GabeRubin18/GabeRubin18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on creating a roleplaying game in godot using GDscript.
